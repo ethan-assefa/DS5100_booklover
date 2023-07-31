@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: BookLove
+Version: 1.0.0
+Summary: A package that wraps up the BookLover class and the test suite for it. (This is work for M09 of the DS5100 course at UVA SDS)
+Home-page: https://github.com/ethan-assefa/DS5100_booklover.git
+Author: Ethan Assefa
+Author-email: eda8ek@virginia.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
