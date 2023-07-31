@@ -11,5 +11,5 @@ setup(
     author_email='eda8ek@virginia.com',
     description='A package that wraps up the BookLover class and the test suite for it. (This is work for M09 of the DS5100 course at UVA SDS)',
     packages=find_packages(),    
-    install_requires=['unittest', 'pandas >= 1.5.3'],
+    install_requires=['pandas >= 1.5.3'],
 )
